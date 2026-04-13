@@ -13,10 +13,13 @@ A simple Python project that simulates a password authentication system with lim
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/password-checker-cli.git
+   git clone https://github.com/gbeja/password-checker-cli.git
 
 2. Navigate into the folder:
    cd password-checker-cli
 
 3. Run the program:
    python main.py
+   
+4. PASSWORD = "pass123"
+   MAX_TRIES = 8
